@@ -1,0 +1,27 @@
+.main-container{
+	text-align: center;
+}
+
+.dice{
+	display: inline-block;
+	padding: 6px;
+}
+body{
+	background-color: #171717;
+	color: #EEEEEE;
+	font-family: Calibri;
+}
+h1{
+	font-size: 4rem;
+}
+h2{
+	font-size: 2rem;
+}
+
+footer{
+	text-align: center;
+	font-weight: bold;
+	padding: 2.5rem;
+/*	color: #EDEDED;
+*/	
+}
