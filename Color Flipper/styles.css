@@ -1,0 +1,36 @@
+body{
+	text-align: center;
+	font-family: cursive;
+}
+.heading{
+	font-size: 3rem;
+}
+
+#main-div{
+	background-color: white;
+	border: 0.4rem solid black ;
+	border-radius: 1rem;
+	margin: 6rem 0 1rem 0;
+	padding:3rem;
+}
+
+#btn{
+	font-size: 3rem;
+	border-radius: 1rem;
+	background-color: black;
+	color: white;
+	font-family: cursive;
+	margin-bottom: 2rem;
+}
+
+#btn:hover{
+	font-size: 3rem;
+	border-radius: 1rem;
+	background-color: transparent;
+	color: white;
+	font-family: cursive;	
+}
+
+footer p{
+	font-size: 1.3rem;
+}
